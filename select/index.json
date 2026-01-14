@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "水際PARTY、水着でFUNNY",
+  "base_artist": "筆島しぐれ (CV.吉岡麻耶)",
+  "createdAt": "2026-01-14T07:57:00.401584Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水際PARTY、水着でFUNNY",
+      "artist": "筆島しぐれ (CV.吉岡麻耶)",
+      "has_synced": false,
+      "path": "select/pl_01_水際PARTY、水着でFUNNY_筆島しぐれ_(CV.吉岡麻耶).txt"
+    }
+  ]
+}
